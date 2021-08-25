@@ -10,6 +10,10 @@ who owns a bike, a laptop and boat.
 """
 
 # your code below:
+# Assignment 2:
+
+my_list = [{'Tom': {'salary': 20000,'age': 22, 'owns':['jacket','car','TV']}},
+            {'Bill': {'salary': 24000,'age': 27,'owns':['bike','Laptopo','boat']}}]
 
 
 
